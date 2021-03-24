@@ -44,7 +44,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I used websites like w3schools.com and freeCodeCamp.org to find different HTML colors and their color code to customize my website,.]
+[I used websites like w3schools.com and freeCodeCamp.org to find different HTML colors and their color code to customize my website.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [A challenged I encountered in creating this submission is the logic portion. Even though, the logic picture was giving me
